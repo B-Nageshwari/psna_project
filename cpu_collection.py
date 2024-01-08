@@ -1,3 +1,4 @@
+!pip install speedtest-cli
 import psutil
 import speedtest
 import csv
